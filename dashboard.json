@@ -1,6 +1,5 @@
 {
-  "tasks": [
-    {
+  "tasks": [{
       "Name": "Code Jam \"CV\"",
       "Link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
       "Status": "Checked"
@@ -52,71 +51,6 @@
     }
   ],
   "mentors": {
-    "aliaksandrzahorski": {
-      "Nick": "aliaksandrzahorski",
-      "Name": "Akiaksandr Zahorski",
-      "Students": {
-        "grenbork": {
-          "Nick": "grenbork"
-        },
-        "bananovblu": {
-          "Nick": "bananovblu"
-        },
-        "bmvmarc": {
-          "Nick": "bmvmarc",
-          "Tasks": {
-            "markup1": {
-              "Name": "Markup #1",
-              "PR": "https://github.com/rolling-scopes-school/bmvmarc-2018Q3/pull/1",
-              "Mark": 80,
-              "Comment": "some issues",
-              "Mentor": "aliaksandrzahorski"
-            },
-            "codejamcorejs": {
-              "Name": "Code Jam \"CoreJS\"",
-              "PR": "https://github.com/bmvmarc/rsschool-codejam/pull/1",
-              "Mark": 100,
-              "Comment": "well done",
-              "Mentor": "aliaksandrzahorski"
-            },
-            "codejamcv": {
-              "Name": "Code Jam \"CV\"",
-              "PR": "https://github.com/bmvmarc/rsschool-codejam1-cv/pull/1",
-              "Mark": 90,
-              "Comment": "well done",
-              "Mentor": "aliaksandrzahorski"
-            },
-            "codejamdomdomevents": {
-              "Name": "Code Jam \"DOM, DOM Events\"",
-              "PR": "https://github.com/rolling-scopes-school/bmvmarc-2018Q3/pull/2",
-              "Mark": 80,
-              "Comment": "well done",
-              "Mentor": "aliaksandrzahorski"
-            },
-            "youtube": {
-              "Name": "YouTube",
-              "PR": "https://github.com/rolling-scopes-school/bmvmarc-2018Q3/pull/3",
-              "Mark": 70,
-              "Comment": "done",
-              "Mentor": "aliaksandrzahorski"
-            },
-            "codejamscoreboard": {
-              "Name": "Code Jam \"Scoreboard\"",
-              "PR": "https://github.com/rolling-scopes-school/bmvmarc-2018Q3/pull/4",
-              "Mark": 85,
-              "Comment": "well done",
-              "Mentor": "aliaksandrzahorski"
-            }
-          }
-        },
-        "taukitianin": {
-          "Nick": "taukitianin"
-        },
-        "deepenguin": {
-          "Nick": "deepenguin"
-        }
-      }
-    },
     "lipskiy-aleh": {
       "Nick": "lipskiy-aleh",
       "Name": "Aleh Lipski",
