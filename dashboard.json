@@ -1,6 +1,5 @@
 {
-  "tasks": [
-    {
+  "tasks": [{
       "Name": "Code Jam \"CV\"",
       "Link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
       "Status": "Checked"
