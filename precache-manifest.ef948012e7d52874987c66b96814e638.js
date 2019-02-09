@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/dashboard/static/js/runtime~main.81312d4a.js"
   },
   {
-    "revision": "9718aae08344f73b0abe",
-    "url": "/dashboard/static/js/main.9718aae0.chunk.js"
+    "revision": "3a4d72352068a0cd359d",
+    "url": "/dashboard/static/js/main.3a4d7235.chunk.js"
   },
   {
-    "revision": "3e364ccaee41fb0724f1",
-    "url": "/dashboard/static/js/1.3e364cca.chunk.js"
+    "revision": "f5790b44f249db0a64d0",
+    "url": "/dashboard/static/js/1.f5790b44.chunk.js"
   },
   {
-    "revision": "9718aae08344f73b0abe",
-    "url": "/dashboard/static/css/main.57123a9f.chunk.css"
+    "revision": "3a4d72352068a0cd359d",
+    "url": "/dashboard/static/css/main.1b617282.chunk.css"
   },
   {
-    "revision": "3e364ccaee41fb0724f1",
-    "url": "/dashboard/static/css/1.e1f3a768.chunk.css"
+    "revision": "f5790b44f249db0a64d0",
+    "url": "/dashboard/static/css/1.d28e9d2c.chunk.css"
   },
   {
-    "revision": "5ffa8b7b1c3bf0580502dd65b05d0508",
+    "revision": "da02800c7bc86c098503feddc8bc4cdd",
     "url": "/dashboard/index.html"
   }
 ];
